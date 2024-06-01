@@ -31,7 +31,7 @@
 }
 
 .mywork-container a {
-    text-align: center; /* Center align text within the links */
+    text-align: center; 
 }
 
 .mywork-container img {
@@ -84,29 +84,29 @@
 @media (max-width: 768px) {
     .mywork {
         gap: 50px;
-        margin: 50px 20px; /* Adjust margin for smaller screens */
+        margin: 50px 20px; 
         align-items: center;
     }
     
     .mywork-title h1 {
         padding: 0;
-        font-size: 40px; /* Reduce font size for smaller screens */
+        font-size: 40px;
         font-weight: 600;
     }
     
     .mywork-title img {
-        width: 100px; /* Adjust width for smaller screens */
+        width: 100px; 
         margin-right: -20px;
     }
     
     .mywork-container {
-        grid-template-columns: 1fr; /* Single column layout for smaller screens */
+        grid-template-columns: 1fr; 
         gap: 30px;
     }
     
     .mywork-container img {
         width: 100%;
-        height: auto; /* Maintain aspect ratio */
+        height: auto; 
     }
     
     .mywork-showmore {
