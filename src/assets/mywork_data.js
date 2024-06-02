@@ -38,7 +38,7 @@ const mywork_data = [
         w_no:5,
         w_name:"Wheater web-app",
         w_img:project5_img,
-        w_url:'https://github.com/CLINTO-hub/Weather-App'
+        w_url:'https://weather-app-cyan-eta.vercel.app'
     },
     {
         w_no:6,
