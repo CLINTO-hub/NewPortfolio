@@ -15,7 +15,7 @@ const mywork_data = [
         w_name:"Medicare: Doctor Booking Web-App",
         w_img:doctor_img,
         w_url:'https://www.medicare.clintogeorge.live/',
-        w_details:'Medicare is a doctor booking platform with secure appointment management, private messaging,real-time communication and an intuitive interface.It ensures seamless, efficient scheduling for routine check-ups or specialized care.  Integrated the STRIPE payment gateway for booking slots.Integrated real-time chat functionality using Socket.IO to enhance user communication. Utilized Tailwind CSS for efficient and scalable styling.'
+        w_details:'Medicare is a doctor booking platform with secure appointment management, private messaging,real-time communication and an intuitive interface.Integrated the STRIPE payment gateway for booking slots.Integrated real-time chat functionality using Socket.IO to enhance user communication. Utilized Tailwind CSS for efficient and scalable styling.'
     },
     {
         w_no:2,
