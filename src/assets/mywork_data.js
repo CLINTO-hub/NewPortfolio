@@ -22,7 +22,7 @@ const mywork_data = [
         w_name:"StrideSpot: Ecommerce store for shoes",
         w_img:shoe,
         w_url:'https://www.stridespot.clintogeorge.live/',
-        w_details:'An innovative e-commerce application dedicated to shoes. This platform boasts an intuitive UI,dynamic card system and seamless Razorpay integration for secure transactions, ensuring a delightful shopping journey for fashion enthusiasts.Integrated twilio for registration Otp purpose. Implemented cart management functionality to allow users to add.Added coupon offers to the customers to redeem and use.Added wallet management for the users'
+        w_details:'An innovative e-commerce application dedicated to shoes. This platform boasts an intuitive UI,dynamic card system and seamless Razorpay integration for secure transactions, ensuring a delightful shopping journey for fashion enthusiasts.Integrated twilio for registration Otp purpose. Implemented cart management functionality to allow users to add.Added coupon offers to the customers to redeem and use'
     },
     {
         w_no:3,
